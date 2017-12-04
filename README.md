@@ -1,7 +1,7 @@
-# weapp-zhihulive
+# weapp-livecrawl
 
 
-基于Zhihu Live数据的微信小程序.数据归知乎所有，本项目用于技术学习
+基于Web Live数据的微信小程序.数据归Web，本项目用于技术学习
 
 ## Preview
 
